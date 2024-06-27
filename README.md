@@ -1,6 +1,44 @@
 Project Title: E-Commerce website-Like Online Retail Store
 
-Description:E-Commerce Hub is a comprehensive online retail platform designed to provide a seamless shopping experience similar to Amazon. The project aims to offer users a wide range of products, an intuitive user interface, and robust backend functionality to manage user accounts, orders, and product listings efficiently.
+Description:This project is a comprehensive online retail platform designed to provide a seamless shopping experience similar to Amazon developed using Java with the help of JSP, Servlets, Hibernate, HTML, and CSS . The project aims to offer users a wide range of products, an intuitive user interface, and robust backend functionality to manage user accounts, orders, and product listings efficiently.
+
+Technologies Used:
+
+Java:
+Core application logic and backend functionality.
+
+JSP (JavaServer Pages):
+Dynamic web page generation.
+Display product details, user information, and order summaries.
+
+Servlets:
+Handle HTTP requests and responses.
+Manage user sessions, process form data, and control application flow.
+
+Hibernate:
+Object-Relational Mapping (ORM) for database interactions.
+Manage persistent data such as user accounts, products, and orders.
+
+HTML and CSS:
+Structure and style the web pages.
+Ensure a responsive and user-friendly interface.
+
+Database:
+MySQL or any other relational database to store user, product, and order information.
+
+Project Structure:
+
+Frontend:
+HTML and CSS files for the user interface.
+JSP pages for dynamic content rendering.
+
+Backend:
+Java classes for business logic.
+Servlets for request handling and response generation.
+Hibernate configuration and mapping files.
+
+Database:
+Tables for users, products, orders, and other relevant data.
 
 Prerequisites:
 NetBeans IDE: Ensure you have NetBeans installed. Download NetBeans
