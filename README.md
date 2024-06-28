@@ -38,7 +38,7 @@ Servlets for request handling and response generation.
 Hibernate configuration and mapping files.
 
 Database:
-Tables for users, products, orders, and other relevant data.
+Tables for users, products, and other relevant data.
 
 Prerequisites:
 NetBeans IDE: Ensure you have NetBeans installed. Download NetBeans
