@@ -58,6 +58,7 @@ Ensure that the web.xml file in the WEB-INF directory is properly configured for
 Verify that all necessary libraries (JAR files for Hibernate, MySQL connector, etc.) are included in the project’s lib directory.
 
 Step-by-Step Installation Guide:
+
 Clone the Project Repository:
 
 Download or clone the project repository from the source (e.g., GitHub).
