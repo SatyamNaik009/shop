@@ -88,6 +88,4 @@ Build and Deploy the Project:
 In NetBeans, right-click the project and select Clean and Build.
 After a successful build, right-click the project again and select Run.
 
-Access the Application:
-Open a web browser and navigate to http://localhost:8080/ecommerce-hub.
-The home page of the E-Commerce Hub should be displayed.
+
