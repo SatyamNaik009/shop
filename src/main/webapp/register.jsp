@@ -54,8 +54,8 @@
                                 </div>
 
                                 <div class="container text-center"> 
-                                    <button class="btn btn-outline-success">Register</button>
-                                    <button class="btn btn-outline-warning">Reset</button>
+                                    <button type="submit" class="btn btn-outline-success">Register</button>
+                                    <button type="reset" class="btn btn-outline-warning">Reset</button>
 
                                 </div>
 
