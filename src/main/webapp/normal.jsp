@@ -4,9 +4,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Normal Panel</title>
     </head>
     <body>
-        <h1>This is normal user panel</h1>
+         <%@include  file="index.jsp" %>
     </body>
 </html>
